@@ -1,0 +1,8 @@
+{
+  "name": "uniq-js",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "random-js": "justin-oh/random-js"
+  }
+}
