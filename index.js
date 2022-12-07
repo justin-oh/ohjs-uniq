@@ -1,4 +1,4 @@
-import { randomString } from 'ohjs-random';
+import { randomString } from '../ohjs-random/index.js';
 
 let UNIQUE = [];
 
