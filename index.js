@@ -1,4 +1,4 @@
-import { randomString } from 'random-js';
+import { randomString } from 'ohjs-random';
 
 let UNIQUE = [];
 
@@ -24,4 +24,3 @@ export default function(length = 25) {
 
     return uniq;
 }
-
