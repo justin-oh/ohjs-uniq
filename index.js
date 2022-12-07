@@ -1,4 +1,4 @@
-import { randomString } from '../random-js/index.js';
+import { randomString } from 'random-js';
 
 let UNIQUE = [];
 
